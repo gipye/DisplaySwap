@@ -1,0 +1,126 @@
+# Visual Studio
+
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.VC.opendb
+
+# Build output
+
+[Bb]in/
+[Oo]bj/
+x64/
+x86/
+Debug/
+Release/
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.obj
+*.iobj
+*.ipdb
+*.tlog
+
+# CMake
+
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+build/
+out/
+
+# MSBuild
+
+*.log
+*.lastbuildstate
+*.recipe
+*.vcxproj.user
+
+# Generated files
+
+*.generated.h
+*.generated.cpp
+
+# Executables
+
+*.exe
+
+# Code signing / certificates
+
+*.pfx
+*.p12
+*.cer
+*.crt
+*.key
+
+# Temporary files
+
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*.orig
+
+# Crash dumps
+
+*.dmp
+
+# Windows
+
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs
+
+*.log
+logs/
+*.trace
+
+# Local configuration
+
+*.local
+*.local.json
+*.local.xml
+
+# IDE / editor
+
+.vscode/
+.idea/
+
+# ReSharper
+
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# NuGet
+
+packages/
+*.nupkg
+*.snupkg
+
+# Test results
+
+TestResults/
+*.trx
+
+# OS generated files
+
+$RECYCLE.BIN/
+System Volume Information/
+
+# Personal/local notes
+
+notes/
+local/
+scratch/
+temp/
+tmp/
